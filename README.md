@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&lines=Hello👋+World!+👽+.+.+.;Welcome+to+World+Wide+Web;Oops!+HTTP+error+☹️+⇣+⇣+⇣+⇣+⇣&repeat=false" />
 </p>
 <h1 align="center">
-  Hi 👋, I'm Md Sumon Mia<img src="https://github.com/ShahriyarSumon/ShahriyarSumon/blob/main/xIC0BnWSvV.gif"width="94" />
+  Hi 👋, I'm Md Sumon Mia<img src="https://github.com/ShahriyarSumon/ShahriyarSumon/blob/main/xIC0BnWSvV.gif"hight="2" width="94" />
 
 </h1>
 <h3 align="center">A passionate full-Stack Web developer from Bangladesh </h3>
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **HTML,Css,python and any kind of Digital marketing**
 - 📩 How to reach me **shahriyarsumon5@gmail.com**
-  <img src="https://github.com/ShahriyarSumon/ShahriyarSumon/blob/main/mailbox-8446_256.gif" hight="2" width="40" />
+  <img src="https://github.com/ShahriyarSumon/ShahriyarSumon/blob/main/mailbox-8446_256.gif"  width="40" />
 
 - 📄 Know about my experiences [https://github.com/ShahriyarSumon/-my-resume/blob/main/%20CV%20Resume(sumon).pdf](https://github.com/ShahriyarSumon/-my-resume/blob/main/%20CV%20Resume(sumon).pdf)
 
