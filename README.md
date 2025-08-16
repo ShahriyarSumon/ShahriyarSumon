@@ -1,6 +1,10 @@
 
 <img src="https://github.com/ShahriyarSumon/ShahriyarSumon/blob/main/Md%20Sumon%20Mia.png" width="800"/>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&lines=Hello+I+am+Md+Sumon;Full-Stack+Developer;OSINT+Learner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Md Sumon Mia </h1>
 <h3 align="center">A passionate full-Stack developer from Bangladesh</h3>
 <p align="center">
