@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&lines=Hello👋+World+I+am+Sumon;Oops!+HTTP+error+☹️+⇣+⇣+⇣+⇣+⇣;" />
 </p>
-<h1>
+<h1 align="center">
   Hi 👋, I'm Md Sumon Mia
 </h1>
 <h3 align="center">A passionate full-Stack Web developer from Bangladesh</h3>
