@@ -11,7 +11,7 @@
 </h1>
 <h3 align="center">A passionate full-Stack Web developer from Bangladesh </h3>
 <p align="center">
-- 🔭 I’m currently working on **Soul_Space** <img src="https://github.com/ShahriyarSumon/ShahriyarSumon/blob/main/xIC0BnWSvV.gif"width="92" />
+- 🔭 I’m currently working on **Soul_Space** <img src="https://github.com/ShahriyarSumon/ShahriyarSumon/blob/main/xIC0BnWSvV.gif"width="60" />
 
 - 🌱 I’m currently learning **backend dev**
 
