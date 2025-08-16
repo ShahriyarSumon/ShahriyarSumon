@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&lines=.+.Hello👋+World+.+.;Oops!+HTTP+error+☹️+⇣+⇣+⇣+⇣+⇣;" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&lines=Hello👋+World+👽+.+.;Oops!+HTTP+error+☹️+⇣+⇣+⇣+⇣;" />
 </p>
 <h1 align="center">
   Hi 👋, I'm Md Sumon Mia
