@@ -6,8 +6,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&lines=Hello👋+World!+👽+.+.+.;Welcome+to+World+Wide+Web;Oops!+HTTP+error+☹️+⇣+⇣+⇣+⇣+⇣&repeat=false" />
 </p>
-<h1 align="center">
-  Hi 👋, I'm Md Sumon Mia<img src="https://github.com/ShahriyarSumon/ShahriyarSumon/blob/main/xIC0BnWSvV.gif" width="98" />
+<h1 align="center"><img src="https://github.com/ShahriyarSumon/ShahriyarSumon/blob/main/xIC0BnWSvV.gif" width="98" />
+  👋, I'm Md Sumon Mia
 
 </h1>
 <h3 align="center">A passionate full-Stack Web developer from Bangladesh </h3>
