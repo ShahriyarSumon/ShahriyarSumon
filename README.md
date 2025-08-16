@@ -9,7 +9,7 @@
 <h1 align="center">
   Hi 👋, I'm Md Sumon Mia
 </h1>
-<h3 align="center">A passionate full-Stack Web developer from Bangladesh </h3>  <img src="https://github.com/ShahriyarSumon/ShahriyarSumon/blob/main/xIC0BnWSvV.gif"width="90" />
+<h3 align="center">A passionate full-Stack Web developer from Bangladesh </h3>
 <p align="center">
 - 🔭 I’m currently working on **Soul_Space**
 
