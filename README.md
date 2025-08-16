@@ -2,10 +2,12 @@
 <img src="https://github.com/ShahriyarSumon/ShahriyarSumon/blob/main/Md%20Sumon%20Mia.png" width="800"/>
 </p>
 
-<h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&lines=Hello👋+World+I+am+Sumon;Oops!+HTTP+error+☹️+⇣+⇣+⇣+⇣+⇣;" />
 </p>
+<h1>
+  Hi 👋, I'm Md Sumon Mia
 </h1>
 <h3 align="center">A passionate full-Stack Web developer from Bangladesh</h3>
 <p align="center">
