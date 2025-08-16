@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **backend dev**
 
 - 💬 Ask me about **HTML,Css,python and any kind of Digital marketing**
-- How to reach me **shahriyarsumon5@gmail.com**<p>
+- <p> How to reach me **shahriyarsumon5@gmail.com**
   <img src="https://github.com/ShahriyarSumon/ShahriyarSumon/blob/main/mailbox-8446_256.gif" width="40" />
 </p>
 
