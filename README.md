@@ -9,14 +9,14 @@
 <h1 align="center">
   Hi 👋, I'm Md Sumon Mia
 </h1>
-<h3 align="center">A passionate full-Stack Web developer from Bangladesh</h3>
+<h3 align="center">A passionate full-Stack Web developer from Bangladesh</h3> <img src="https://github.com/ShahriyarSumon/ShahriyarSumon/blob/main/xIC0BnWSvV.gif"width="40" />   
 <p align="center">
 - 🔭 I’m currently working on **Soul_Space**
 
 - 🌱 I’m currently learning **backend dev**
 
 - 💬 Ask me about **HTML,Css,python and any kind of Digital marketing**
-- How to reach me **shahriyarsumon5@gmail.com**
+- 📩 How to reach me **shahriyarsumon5@gmail.com**
   <img src="https://github.com/ShahriyarSumon/ShahriyarSumon/blob/main/mailbox-8446_256.gif" width="40" />
 
 - 📄 Know about my experiences [https://github.com/ShahriyarSumon/-my-resume/blob/main/%20CV%20Resume(sumon).pdf](https://github.com/ShahriyarSumon/-my-resume/blob/main/%20CV%20Resume(sumon).pdf)
