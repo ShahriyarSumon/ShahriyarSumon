@@ -17,7 +17,10 @@
 
 - 💬 Ask me about **HTML,Css,python and any kind of Digital marketing**
 
-- 📫 How to reach me **shahriyarsumon5@gmail.com**
+- <p align="center">
+  <img src="your-animated-banner.gif" width="900" />
+</p>
+How to reach me **shahriyarsumon5@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/ShahriyarSumon/-my-resume/blob/main/%20CV%20Resume(sumon).pdf](https://github.com/ShahriyarSumon/-my-resume/blob/main/%20CV%20Resume(sumon).pdf)
 
