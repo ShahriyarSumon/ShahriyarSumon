@@ -16,8 +16,8 @@
 - 🌱 I’m currently learning **backend dev**
 
 - 💬 Ask me about **HTML,Css,python and any kind of Digital marketing**
-- <p>
-  <img src="https://github.com/ShahriyarSumon/ShahriyarSumon/blob/main/mailbox-8446_256.gif" width="40" />How to reach me **shahriyarsumon5@gmail.com**
+- How to reach me **shahriyarsumon5@gmail.com**<p>
+  <img src="https://github.com/ShahriyarSumon/ShahriyarSumon/blob/main/mailbox-8446_256.gif" width="40" />
 </p>
 
 - 📄 Know about my experiences [https://github.com/ShahriyarSumon/-my-resume/blob/main/%20CV%20Resume(sumon).pdf](https://github.com/ShahriyarSumon/-my-resume/blob/main/%20CV%20Resume(sumon).pdf)
