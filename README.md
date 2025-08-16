@@ -4,7 +4,7 @@
 
 <h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&lines=Hello+world+I+am+Md+Sumon+Mia;A+Professional+http+error☹️" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&lines=Hello👋+world+I+am🙆🏻‍♂️;Md+Sumon+Mia;A+Professional+http+error;☹️+⇣+⇣+⇣+⇣;" />
 </p>
 </h1>
 <h3 align="center">A passionate full-Stack Web developer from Bangladesh</h3>
