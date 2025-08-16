@@ -1,5 +1,5 @@
 
-<img src="[https://drive.google.com/file/d/1QRj5KpUudyDUjTJVQhQ-YrlC7M3yzgXa/view?usp=drive_link](https://github.com/ShahriyarSumon/ShahriyarSumon/blob/main/Md%20Sumon%20Mia.png)" width="800"/>
+<img src="https://github.com/ShahriyarSumon/ShahriyarSumon/blob/main/Md%20Sumon%20Mia.png" width="800"/>
 </p>
 <h1 align="center">Hi 👋, I'm Md Sumon Mia </h1>
 <h3 align="center">A passionate full-Stack developer from Bangladesh</h3>
