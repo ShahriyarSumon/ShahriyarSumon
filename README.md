@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&lines=Hello world👋,+I+am+Md+Sumon+Mia;A+passionate+Full-Stack+Developer;Oops!Sorry+I+am+Nobody🎩+just+an+HTTP+error404👾" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&lines=Hello world,+I+am+Md+Sumon+Mia;A+passionate+Full-Stack+Developer;Oops!Sorry+I+am+Nobody+just+an+HTTP+error404" />
 </p>
 
 <h3 align="center">A passionate full-Stack developer from Bangladesh</h3>
